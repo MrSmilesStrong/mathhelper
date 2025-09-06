@@ -5,7 +5,7 @@ export default {
        <html>
        <head>
          <meta charset="UTF-8">
-         <title>Eaglercraft iframe</title>
+         <title>Eaglercraft 1.12 WASM-GC</title>
          <style>
            html, body, iframe {
              margin: 0;
